@@ -55,7 +55,7 @@ function setTextContentById(getId, setMsg) {
 	setTextContentById('subTotal', subTotal);
 	setTextContentById('shipping', shipping);
 	setTextContentById('grandTotal', grandTotal);
-}
+})
 
 initiateVars();
 setSign();
